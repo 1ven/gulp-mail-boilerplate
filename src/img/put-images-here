@@ -1,0 +1,73 @@
+body
+    margin 0 !important
+    background #f8f8f8
+    padding-bottom 132px
+
+.b-logo
+    padding-bottom 60px
+
+.b-main
+    font-family 'Helvetica Neue'
+    background #fff
+    border-top 6px solid #3f505b
+    border-bottom 1px solid #bfc2c4
+
+.b-header
+    text-align center
+    height 116px
+    border-left 1px solid #bfc2c4
+    border-right 1px solid #bfc2c4
+    padding-top 67px
+    &__title
+        font-size 22px
+        color #475761
+        font-weight bold
+
+.b-poster
+    border-left 1px solid #bfc2c4
+    border-right 1px solid #bfc2c4
+
+.b-content
+    padding 29px 29px 0
+    border-left 1px solid #bfc2c4
+    border-right 1px solid #bfc2c4
+    &_center
+        text-align center
+
+.b-text
+    color #475761
+    font-size 15px
+    line-height 24px
+
+.b-link
+    color #0b8ce6
+    font-size 15px
+
+.b-big-text
+    font-weight bold
+    font-size 22px
+    color #475761
+    &__green
+        color #5dcad8
+    &__sm
+        font-weight 400
+        font-size 17px
+
+.b-footer
+    border-left 1px solid #bfc2c4
+    border-right 1px solid #bfc2c4
+    text-align center
+    padding-bottom 64px
+
+.b-social
+    &__item
+        padding 0 7px
+
+.b-footer-links
+    &__link
+        color #071e2d
+        font-size 14px
+
+.b-buttons
+    &__item
+        padding 0 9px

@@ -1,0 +1,9 @@
+mixin table(width, align)
+    table(cellspacing="0" cellpadding="0" border="0" width=width || "100%" align=align || "left" class=attributes.class || '')
+        block
+
+mixin sep()
+    +table(193, 'center')
+        tr
+            td
+                img(src="img/sep.png")
